@@ -13,7 +13,7 @@ export function ContactList({filter, contacts, handleDelete}) {
             return (
               <ContactItem id={id} name={name} number={number} handleDelete={handleDelete} />
             )
-          } else return
+          } else return null
         })}
       </List>
     )
