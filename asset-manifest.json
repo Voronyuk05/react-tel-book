@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-tel-book/static/css/main.7acaea2f.css",
-    "main.js": "/react-tel-book/static/js/main.f29c20c2.js",
+    "main.js": "/react-tel-book/static/js/main.c50f9f66.js",
     "index.html": "/react-tel-book/index.html",
     "main.7acaea2f.css.map": "/react-tel-book/static/css/main.7acaea2f.css.map",
-    "main.f29c20c2.js.map": "/react-tel-book/static/js/main.f29c20c2.js.map"
+    "main.c50f9f66.js.map": "/react-tel-book/static/js/main.c50f9f66.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.f29c20c2.js"
+    "static/js/main.c50f9f66.js"
   ]
 }
