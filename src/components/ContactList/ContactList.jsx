@@ -11,7 +11,7 @@ export function ContactList({filter, contacts, handleDelete}) {
 
           if (lowerName.includes(lowerFilter)) {
             return (
-              <ContactItem id={id} name={name} number={number} handleDelete={handleDelete} />
+              <ContactItem key={id} id={id} name={name} number={number} handleDelete={handleDelete} />
             )
           } else return null
         })}
